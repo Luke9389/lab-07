@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "_id": "1",
+      "name": "tents",
+      "display_name": "Tents",
+      "description": "outdoor dwellings"
+    },
+    {
+      "_id": "2",
+      "name": "fishing_poles",
+      "display_name": "Fishing Polls",
+      "description": "equipment for fishing"
+    },
+    {
+      "_id": "3",
+      "name": "utility_equipment",
+      "display_name": "Utility Equipment",
+      "description": "catch-all category for stuff"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "fishing_poles",
+      "name": "fishing_poll_2000",
+      "display_name": "Fishing Poll 2000",
+      "description": "a fishing poll for Harry Potter fans"
+    },
+    {
+      "_id": 2,
+      "category": "tents",
+      "name": "super_great_tent",
+      "display_name": "Super Great Tent",
+      "description": "this tent is the best thing ever invented. ever."
+    },
+    {
+      "_id": 3,
+      "category": "tent",
+      "name": "terrible_tent",
+      "display_name": "Terrible Tent",
+      "description": "you should totally buy this"
+    },
+    {
+      "_id": 4,
+      "category": "utility_equipment",
+      "name": "binoculars",
+      "display_name": "Binoculars",
+      "description": "For seeing long distances"
+    },
+    {
+      "_id": 5,
+      "category": "fishing_poles",
+      "name": "fishing_poll_3000",
+      "display_name": "Fishing Poll 3000",
+      "description": "a fishing poll that is 1000 ft longer than the 2000"
+    }
+  ]
+}
